@@ -1,5 +1,5 @@
 ---
-title: [THE ART OF THE DECOY: HOW BANKSY BUILT THE FIRST MULTI-IDENTITY BRAND IN ART]
+title: THE ART OF THE DECOY: HOW BANKSY BUILT THE FIRST MULTI-IDENTITY BRAND IN ART
 author: Bobby Bress
 project: Breaking Banksy
 originally_published: Medium
@@ -8,7 +8,6 @@ canonical_source: https://bobilon.github.io/breaking-banksy/articles/medium-6e55
 ---
 #[THE ART OF THE DECOY: HOW BANKSY BUILT THE FIRST MULTI-IDENTITY BRAND IN ART]
 THE ART OF THE DECOY: HOW BANKSY BUILT THE FIRST MULTI-IDENTITY BRAND IN ART
-REVISED WITH CORPORATE FORENSICS + GUNNINGHAM EXPOSURE
 
 On a damp Bristol evening more than a decade ago, a photographer named Andrew believed he'd finally captured the shot that would solve one of contemporary culture's strangest mysteries. He had followed a cluster of twenty-something men spilling out of a bar in Stokes Croft, watching them with the alertness of someone who has stared too long at rumor and wanted it to come true. One of the men seemed uncannily familiar - the narrow face, the hood pulled low, the rough stubble reminiscent of the now-canonical "Gunningham photo" circulating endlessly through tabloids and conspiracy forums.
 Andrew raised his camera. The man glanced back, held the photographer's gaze for just a beat too long, and walked on. Hours later the image went up on Reddit under a triumphant caption announcing that Banksy had been unmasked at last.
