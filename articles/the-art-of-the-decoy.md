@@ -1,10 +1,12 @@
 ---
-title: THE ART OF THE DECOY: HOW BANKSY BUILT THE FIRST MULTI-IDENTITY BRAND IN ART
+title: "The Art of the Decoy: How Banksy Built the First Multi-Identity Brand in Art"
 author: Bobby Bress
 project: Breaking Banksy
 originally_published: Medium
 medium_url: https://medium.com/p/6e55ecb960bd
 canonical_source: https://bobilon.github.io/breaking-banksy/articles/medium-6e55ecb960bd.html
+---
+...header...
 ---
 #[THE ART OF THE DECOY: HOW BANKSY BUILT THE FIRST MULTI-IDENTITY BRAND IN ART]
 THE ART OF THE DECOY: HOW BANKSY BUILT THE FIRST MULTI-IDENTITY BRAND IN ART
