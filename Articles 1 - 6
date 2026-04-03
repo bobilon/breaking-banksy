@@ -1,0 +1,326 @@
+# Breaking Banksy
+## A Forensic Investigation into the Corporate Structure and Identity of the Banksy Enterprise
+
+*Articles 1–6 of the Breaking Banksy series. Each article stands alone. Read in sequence, they build the full evidentiary case.*
+
+*Article 1 was published on r/Banksy and r/artcollecting in March 2026. Articles 2–6 follow in series.*
+
+---
+
+# Article 1 — Quarantining the Commodity
+## How a Website Layout Reveals the Bifurcated Banksy
+
+The archival website Banksy Explained — published in 2021, presented as a fan resource — is a forensic document of a different order than it appears. Read closely enough, its taxonomy of originals and its print inventory tables together constitute a ledger of a fractured partnership, drawn in HTML and arithmetic by the one party with the granular knowledge required to draw it.
+
+The printed editions section of the site's coverage of the 2006 Barely Legal exhibition opens with paintings of six familiar images that subsequently became the LA print set: Applause, Festival, Grannies, Morons, Trolleys, and Sale Ends. The accompanying text reads, "Banksy exhibited the originals for each print at Barely Legal." What follows is a structural break. A secondary header appears — "ORIGINALS EXHIBITED" — and the catalogue restarts: Picnic, Waterfall, Girl with Film Crew, and others.
+
+The question the layout forces is simple. If the six print-set canvases were already shown as originals, why are they excluded from the definitive, unhedged inventory of originals exhibited? Compare the phrasing to how the site handles other shows. For the 2000 Severnshed exhibition, it hedges explicitly — "Selected Originals on Exhibit" — flagging a partial record. In the Barely Legal section's originals scroll, no such hedge. "ORIGINALS EXHIBITED" presents itself as the complete record. The six print-set canvases are not in it.
+
+The most precise evidence for what this separation means is found in the single wide-angle photograph immediately preceding the originals section. The shot of Sale Ends Today clearly shows two canvases installed side by side on the same gallery wall: Sale Ends on the right, and the composition for Picnic directly to its left. In the physical gallery, they were neighbors. In the digital architecture of Banksy Explained, they are taxonomically ripped apart. Sale Ends stays quarantined in the commercial print-set category. Picnic is extracted and placed under the "ORIGINALS EXHIBITED" banner.
+
+Physical presence at the show does not determine which column a work goes into. Something else does. Picnic was an original work authorised by the singular creator. The six print-set canvases, despite their status as physical paintings, belonged to a different category of object — one the site refuses to dignify with the unhedged designation.
+
+The following year, the nature of that distinction became explicit.
+
+In 2007, the third and final run of Banksy's Napalm print was included in a box set of printed editions jointly produced by Damien Hirst's Other Criteria company to commemorate the Serpentine Gallery's 2006–07 show In the Darkest Hour There May Be Light: Works from Damien Hirst's Murderme Collection. This third run carried a unique addition: physical blood splatter, applied by hand to that print alone — distinguishing it from its two prior runs not only by the modification but by its distinct production methodology, archival inkjet on photographic paper rather than silk screen. Technical niceties aside, the gesture was unambiguous. The artist had taken the print whose image shows Mickey Mouse and Ronald McDonald leading a burned girl — a critique of American consumerism and its wars — and defaced her own work with blood before handing it to the man whose corporate apparatus was publishing the box set. It was not a contribution. It was an indictment delivered through the mail in a commemorative package.
+
+This box set was no POW production. It was organised by the figure occupying the Artist of Record position in the Banksy corporate structure and jointly produced by Hirst's Other Criteria with the Serpentine — London's most prestigious platform for contemporary art. The blood on Napalm V3 is an internal hostile act, smuggled into a corporate keepsake. The six Barely Legal paintings were the first major salvo in an aggressive strategy to convert the artist's output into liquid commodities. The blood splatter declares the schism the website's taxonomy had already quietly encoded.
+
+The originals taxonomy is one half of the ledger. The other half is the print inventory — and it contains its own layer of embedded forensic signal, legible only to someone willing to do the arithmetic.
+
+The site's introduction states: "Between 2002 and 2010, Banksy released 47 original prints to the public." The summary table at the top of the section shows 49 prints total. The column headers resolve the gap: the final column reads "2007/19" — absorbing both the post-Barely Legal prints running through 2010 and the two GDP prints released in 2019, Thrower and Banksquiat. Seven post-Barely Legal prints plus two GDP prints equals nine, matching the table. The text's 47 is the artist's count for 2002–2010 excluding GDP. The table's 49 includes them. Both figures are internally consistent. Neither is accidental.
+
+What the aggregation conceals is a year-by-year breakdown of the post-Barely Legal period that the site deliberately refuses to provide. The detailed table for 2006–2010 lists eight prints with their individual years — Flag Silver (2006), Flag Gold and Stop and Search (2007), NOLA and Very Little Helps (2008), No Ball Games and Donut (2009), Choose Your Weapon (2010) — but collapses them into a single aggregate column in the summary. The fold obscures the exact moment the print operation continued under terms the artist contested. You can only see the seam by splitting the charts manually, which is precisely the kind of close reading the site rewards without advertising.
+
+The Barely Legal print data contains two anomalies the aggregate presentation buries. Four of the six LA prints — Grannies, Applause, Morons, and Trolleys — had their remaining unsigned editions completed by Pictures on Walls in 2007. Festival never received a POW run at all. It exists only as 150 signed and 100 unsigned prints from the LA show — the smallest edition in the set, incomplete, unresolved. Sale Ends was pushed forward eleven years, appearing as a Version 2 in 2017 as an edition of 500 signed prints. Two prints from the same show behaving differently from the other four. The data records that difference without explaining it.
+
+The Sale Ends trajectory is its own compressed history. The LA edition left in incomplete state while the other prints were completed through POW. Eleven years later, a Version 2 appears, signed only, in an edition of 500. The title of the print is Sale Ends. It is the print whose original canvas was installed on the same gallery wall as Picnic, which the site places in a different category entirely. That the print most legibly named for commercial closure was the one whose commercial closure was most deferred suggests the naming was always pointed.
+
+The Kate Moss colorway structure, recorded in the 2005 section, warrants separate attention. The site shows a main edition of 50 signed prints, followed by six colorways of 20 signed each — 120 colorway impressions — plus 12 artist's proofs, totalling 194. The complete set of all six colorways was never publicly offered as a set. That structure and that total are now at the centre of the Ant and Dec fraud case before the High Court, which involves an alleged buy-side isolation play on a complete set of six Kate Moss colorways, with approximately £250,000 unaccounted for between what the buyers paid and what the seller received. The site recorded the colorway structure with precision in 2021. The fraud case crystallised in 2026. The ledger was ahead of the litigation by five years.
+
+The authority of Banksy Explained as a forensic document depends on a specific premise: that the site's initial template was designed and locked by the singular artist before control was transferred to former partners, who have since maintained and appended it but cannot modify its founding categories or its numbers without breaking its internal consistency. This is consistent with the corporate timeline. By early 2020, Companies House filings showed that Pictures on Walls had acquired greater than 75% ownership of the Pest Control Office — the brand's authentication apparatus. The distribution arm had consumed the regulatory arm. The partners who now held the ability to authenticate and liquidate the remaining vault of artist's proofs, VIP colorways, and withheld editions inherited, along with that apparatus, a website whose print estate inventory they could add to but not revise.
+
+The aggregate year columns, the text-versus-table discrepancy, the Festival incompleteness, the Sale Ends deferral — none of these resolve into innocent editorial decisions when read against the corporate timeline. They resolve into a settlement made visible in data: what was agreed, what was disputed, what was left deliberately incomplete as a record of the dispute itself.
+
+The 2009 Bristol Museum show makes the same logic visible from a different angle. The site's coverage hedges explicitly — "Selected Originals on Exhibit" — flagging a partial record. The hedge is there because the Bristol show contained works that do not qualify under the authentication terms governing the originals column. Devolved Parliament — the monumental chimpanzee-parliament canvas that sold at Sotheby's for nearly £10 million in 2019 — is absent from the 2009 Bristol coverage. The canvas shown at Bristol originated as a super-sized giclee print on canvas, struck from a smaller painting and comprehensively overpainted by the art department as a room-filling exhibition prop. In 2009 it did not meet the criteria of an original work by the singular artist. When a comprehensively reworked version appeared as Devolved Parliament at Sotheby's ten years later, the gap between the 2009 prop and the 2019 auction lot was already in the public record. The site was ahead of the auction house too.
+
+The originals taxonomy tells you which works the artist claims. The print inventory tells you what she was settling. Together they constitute the full ledger of a bifurcated enterprise — drawn before the divorce was final, and immutable ever since.
+
+---
+
+# Article 2 — The Prints That Weren't There Yet
+## Damien Hirst, the Banksy Paper Edition Estate, and a Dating Problem the Numbers Solve Themselves
+
+Damien Hirst has a documented history of backdating his work.
+
+In March 2024 The Guardian revealed that three of his formaldehyde sculptures, presented as products of the 1990s, were fabricated in 2017. Two months later The Guardian returned: at least 1,000 of the 10,000 paintings in his NFT project The Currency, sold with assurances they were hand-created in 2016, were mass-produced by staffers on what one source described as a "Henry Ford production line" in 2018 and 2019. His lawyers did not deny either instance. Their defence was identical both times: it was Hirst's usual practice to date conceptual works according to the year they were conceived rather than the year they were produced. Artists, they said, are perfectly entitled to be inconsistent in their dating.
+
+The formula is simple: conceive it in Year A, make it in Year B, date it Year A, sell it at Year A prices. The premium a work commands by being early in a career, early in a movement, early in a brand's trajectory — that premium is what backdating purchases. A 1990s Hirst formaldehyde sculpture commands a different price than a 2017 one. The defence acknowledges the practice. It disputes only the characterisation.
+
+The Banksy paper print estate runs to approximately 29,000 signed and unsigned impressions across a catalogue that Banksy Explained records as running from 2002 to 2010. Damien Hirst is the Artist of Record of the Banksy enterprise. The paper print estate is his enterprise's commercial inventory. The question the numbers in the Banksy Explained chart raise — once you sit with the arithmetic long enough — is whether the same practice applies here, and whether the chart itself is the evidence.
+
+---
+
+The first signal is the chart's starting date.
+
+Banksy Explained records the authenticated paper print estate as beginning in 2002. But Rude Copper — Lazarides' legendary account of negotiating his way into a meeting to see the prints — is presented in that legend as the enterprise's first official POW release. Rude Copper does not appear on Banksy Explained. Not in 2002. Not anywhere. The print that the enterprise's own mythology establishes as the commercial origin point is the front-end bracket the chart refuses to include.
+
+Rude Copper's absence is not an oversight. It is the same logic as the Devolved Parliament omission from the 2009 Bristol Museum section. What the chart includes is what the artist's settlement terms authorised for inclusion. What the chart excludes is what fell outside those terms — either because it predates the formalised artist designation, or because its production circumstances cannot be certified under the authentication architecture that governs everything else on the chart.
+
+The chart starts where it starts because 2002 is when the canonical identity was settled. If the prints had been produced organically by a singular anonymous artist from the beginning, the chart would start earlier. It starts exactly at the contractual partition that formalised who the artist was and what her output would be certified to include.
+
+---
+
+The second signal is the AP structure.
+
+Across the paper print estate, the artist's proof allocation converges on a baseline unit of twenty-two. Not approximately twenty-two. Exactly twenty-two, on the prints where the structure is cleanest. Police Kids: twenty-two APs. Bomb Love: forty-four — two times twenty-two. NOLA: sixty-six — three times twenty-two. Girl with Balloon: eighty-eight — four times twenty-two. Four prints across a six-year span where the AP count hits exactly on a multiple of twenty-two with zero remainder.
+
+The twenty-two baseline resolves into a distribution architecture once you examine what twenty-two is made of. One artist copy. Ten VIP allocation units — the founding investors whose access to reserved editions is the enterprise's private market structure. Eleven POW retained inventory units — the deferred commercial supply held off-market against future price appreciation. The baseline is not an arbitrary number. It is the enterprise's full distribution apparatus compressed into an AP count, present in the public record of every print where the structure was applied cleanly.
+
+A distribution architecture this precise — encoding three-tier allocation across artist, investor, and commercial inventory — does not emerge organically from a street artist releasing prints as the demand arose. It is designed in advance of production. Designed-in-advance AP allocation structures on prints nominally dated 2003 and 2004 are inconsistent with a spontaneous operation and consistent with a pre-planned commercial vehicle that conceived its catalogue before it produced it, and dated the production to the conception.
+
+That is the conception-date defence, applied to the paper estate before the paper estate required defending.
+
+---
+
+The third signal is Girl with Balloon.
+
+Eighty-eight APs. Four times twenty-two. The hero asset of the catalogue, the image that will eventually be worth tens of millions of pounds at auction, allocated at four times the standard baseline. The arithmetic of that decision describes a treasury position. If the standard baseline holds eleven POW retained APs per print, four baselines hold forty-four — retained inventory on the single most commercially significant image in the estate, deferred against the price appreciation that the enterprise's principals could project from the founding period, realised at auction prices that by 2021 were running above £200,000 per signed AP. Forty-four retained APs at £200,000 each is £8.8 million of deferred inventory position, encoded in the AP count of a print dated 2003.
+
+The farewell edition of Girl with Balloon — the edition of eight produced as a gift to the enterprise's insiders at the artist's departure — inverts the 88 with arithmetic precision. Four times twenty-two becomes eight. The hero asset's AP count and the farewell gift's edition size are mirror images of each other, one encoding the enterprise's maximum commercial ambition and the other encoding the artist's withdrawal from it.
+
+---
+
+The fourth signal is the Barely Legal uniformity.
+
+The six prints from the 2005 Barely Legal LA exhibition carry a uniform AP count: six each. Police Kids, Morons, Grannies, Applause, Trolleys — all AP=6. The uniformity is exact across the entire set. Six is not a multiple of twenty-two. Six is the AP structure of a print where the standard allocation has been reduced to its minimum viable form: one for the artist, one for the AoR, one for POW, and three for the VIP allocation at half the standard rate.
+
+The LA print set's AP=6 uniformity marks the moment the artist's participation in the standard allocation ends. Festival, the sixth LA print, takes thirty-nine APs and no POW run — the anomaly that encodes the contested status of the most unresolved print in the estate. Sale Ends defers its second edition by eleven years, appearing as a Version 2 in 2017. The two exceptions to the LA set's clean uniformity are the two prints where the settlement terms were most clearly in dispute. The arithmetic of the exceptions is the arithmetic of the dispute.
+
+---
+
+The fifth signal is Choose Your Weapon.
+
+The last print in the pre-GDP estate — the print titled, literally, an instruction — carries an edition arithmetic that resolves to a single number across all three tiers. One hundred fifty-eight signed. Four hundred fifty colorway impressions. Fifty-eight artist's proofs. Total: six hundred sixty-six. Not approximately. Exactly. The artist signed off on the commercial paper catalogue with the number of the beast to the unit, distributed across three allocation tiers whose sum is exact. That is not a coincidence of arithmetic. It is the artist naming what she thought the enterprise had become, embedded in the last print she authorised before the GDP phase began without her.
+
+---
+
+The Kate Moss colorway structure resolves into the same AP logic. Twelve artist's proofs across six colorways: two per colorway, one for the artist and one for POW. The colorways are AP analogues — each variant carrying its own minimal allocation in the same two-party structure the baseline AP encodes at full scale. That colorway structure, recorded with precision on the site in 2021, is now at the centre of the Ant and Dec High Court fraud proceedings. The ledger was ahead of the litigation by five years.
+
+The Napalm/Serpentine edition carries the clearest post-schism statement. The standard box set of fifty prints carries twenty-nine artist's proofs. Twenty-nine does not resolve into a multiple of twenty-two. It resolves into the standard baseline minus the AoR's allocation — the residual from a full allocation that has had the AoR's expected share removed before publication. The artist encoded her post-schism condition directly into the AP count. Twenty-nine only makes sense with Hirst outside the fifty.
+
+The paper print estate was conceived during the brand's founding phase. The AP allocation architecture was designed — and could only have been designed — by people who understood they were building a commercial vehicle whose backend value would be realised over a decade or more. If the conception date is what goes on the work, the prints are dated correctly. If the production date is what the market understands when it buys a 2003 Banksy screenprint, the prints are dated the same way The Currency was dated, and the same way the formaldehyde sculptures were dated, and the defence, if it comes, will be the same defence.
+
+Usual practice.
+
+The twenty-two baseline. The eighty-eight APs. The six hundred sixty-six. The twenty-nine. The numbers were always there. They were waiting for someone to count them.
+
+---
+
+# Article 3 — The Canvas Editions and the Studio That Made Them
+## What Banksy Explained Records as Editions, and What the Terminus Tells You
+
+The Banksy Explained canvas editions section opens with a number that requires no interpretation: eighteen. Eighteen canvas editions across the enterprise's commercial peak, from 2000 through 2005, documented in a chart whose column structure — title, date, edition size — is as clean and orderly as a stock ledger. Which is exactly what it is.
+
+A stock ledger is produced by the party that holds the stock. The party that holds the Banksy canvas edition inventory is not a solitary street artist who happened to build an archive of his own work. The party that holds the inventory is the commercial entity that commissioned the production, documented the output, and controls the authentication apparatus that converts documentation into market value. The chart's clarity is corporate clarity. Its orderliness is inventory orderliness. The eighteen canvas editions recorded on Banksy Explained are the commercial layer of a fine art operation that the enterprise built alongside the street art programme that made the brand famous.
+
+The two operations are not the same operation. Understanding the difference between them is the condition for understanding what the canvas editions actually are.
+
+---
+
+The canvas editions occupy three tiers by edition size. Editions of ten are the smallest: Heaven and Hell, Gangsta Rat, Happy Chopper, Bomb Middle England, and Christ with Shopping Bags. Five works — the rarest tier, priced accordingly, the editions that will command the highest individual lot values at auction as the supply is progressively absorbed. Editions of fifteen sit in the middle: Crude Oil, Bomb Love, Rude Copper, Love Is In The Air 2003, I Fought The Law, Flying Copper, Di-Faced Tenners, and Weston Super Mare. Eight works — the commercial centre of the canvas catalogue, volume enough to seed multiple markets, scarcity enough to sustain price. Editions of twenty-five occupy the broadest tier: Naked Policemen, Pulp Fiction, Turf War, and Forgive Us Our Trespassing. Four works — the most widely distributed, the most accessible price points, the editions that built the secondary market's floor.
+
+The tiering is not arbitrary. Editions of ten, fifteen, and twenty-five describe three distinct market strategies deployed across one catalogue. The rarest tier holds the works with the most politically concentrated imagery — Christ with Shopping Bags, Bomb Middle England — and the iconography most tightly associated with the fine art practice rather than the street vocabulary. The broadest tier holds the works most legible as pop cultural objects — Pulp Fiction, Naked Policemen — whose wide distribution built the crossover audience that made the paper print programme viable at scale. The middle tier is the commercial spine. You don't arrive at this three-tier structure organically. You design it.
+
+---
+
+The most consequential marker in the chart is what it stops at.
+
+The canvas editions section of Banksy Explained ends in 2005. The paper print catalogue continues to 2010. The canvas editions chart does not. The gap between 2005 and the enterprise's operational wind-down — five years of the brand's most commercially successful period, from Barely Legal through Beautiful Inside My Head Forever — contains no canvas editions.
+
+The 2005 terminus is not a production decision by a singular artist who happened to stop making canvases. It is the boundary of the artist's settlement terms as they govern what POW can authenticate and list. What the artist certified as her canvas production for the commercial catalogue ends in 2005. What POW produced after that point either falls outside the artist's certification or falls into the hand-finished print category — the works that occupy the boundary between paper and canvas classifications, whose authenticity claims are correspondingly more complicated.
+
+The Love Is In The Air 2006 omission sharpens the terminus precisely. Love Is In The Air appears in the canvas editions chart as a 2003 work, edition of fifteen. A second version — the CCCP Love Is In The Air — circulates in the market attributed to 2006. The 2006 version is not on the chart. The chart holds the 2003 version as the canonical object. The 2006 version is the pre-canonical committee-era work product that the chart's taxonomy excludes by not including any canvas editions after 2005 — a boundary that, held consistently, quarantines the committee-era production on the correct side of the artist's certified output.
+
+---
+
+Rude Copper opens and closes the canvas catalogue simultaneously.
+
+Lazarides' foundational legend — the story he has told publicly and repeatedly about negotiating his way into a meeting to see the prints — names Rude Copper as the object of that meeting, the first official POW release, the print around which the gallery relationship was negotiated. Rude Copper appears in the canvas editions chart as an edition of fifteen. So far consistent.
+
+But Rude Copper also carries hand-finishing marks that the chart's otherwise clean production record does not replicate across the rest of the canvas editions. The hand-finishing is consistent with a production circumstance that predates the chart's standardised three-tier structure — a proof-of-concept made before the production apparatus was fully constituted. The legend names it as the origin. The hand-finishing marks it as the anomaly. The chart includes it but cannot fully domesticate it.
+
+The 2005 unique — the oil-painted bouquet — is the other anomaly. Not an edition. One object. Oil paint rather than the stencil-approximating hand-applied media that constitutes the artist's documented technique. The unique sits in the chart as the single confirmed instance of the artist's hand working in a mode that is unambiguously fine art. Its presence in an otherwise orderly commercial inventory is the artist's signature on the ledger — one object, one medium, one undeniable instance of the hand that made everything else.
+
+---
+
+The canvas editions chart is a settlement document. It records what the enterprise agreed to certify as the artist's canvas production during the period of the original deal. It stops where the settlement terms stop. It includes Rude Copper because the legend requires it. It excludes the 2006 CCCP version because the 2005 terminus requires that exclusion. It includes the 2005 unique because the settlement terms require the artist's signature on the ledger and one oil-painted bouquet is the minimum viable signature.
+
+Eighteen works. Three tiers. One terminus. One signature. The ledger was complete before the first print in it was publicly sold.
+
+---
+
+# Article 4 — What Banksy Explained Calls Originals
+## The Pfaff Studio, the Oil-Painted Bouquet, and the One Work the Chart Cannot Categorise
+
+The originals section of Banksy Explained is the most consequential part of the site. Not because it contains the most entries — it doesn't — but because of what its categories reveal about who built the chart and what they were authorised to include.
+
+The site's originals taxonomy works by exclusion as much as inclusion. Understanding what the chart places in the originals category, and understanding what it places elsewhere despite being physically present at the same exhibitions, is the condition for understanding what the chart is actually documenting. Article One established the most legible instance of that exclusion logic: the six Barely Legal print-set canvases installed at the same exhibition as the works in the originals section, physically present on the same gallery walls, but taxonomically separated into the commercial editions column. The separation is not about physical medium. Both categories contain paintings on canvas. The separation is about who produced them and under what terms.
+
+The originals column holds what the artist certified as her singular works. The commercial editions column holds what the enterprise produced using the Banksy brand's visual vocabulary. The site draws that distinction with the precision of someone who knows exactly which works fall on which side of the line, because they drew the line.
+
+---
+
+The Pfaff studio photographs are the originals section's evidentiary infrastructure.
+
+James Pfaff's function in the enterprise is the documentation of canonical objects for provenance purposes. He does not photograph the street work — that is Lazarides' function. He photographs the works that require authentication: the objects whose value depends on their status as singular, certified, verifiable originals. Without the studio photograph, there is no provenance chain. Without the provenance chain, the originals section cannot function as a commercial instrument.
+
+The works in the Pfaff studio photographs share a consistent visual grammar: controlled environments, prepared backgrounds, controlled lighting that eliminates the ambient irregularities of the street or the gallery install. The conditions are repeatable. The photograph series constitutes a controlled documentation exercise rather than an artist's personal archive — the kind of documentation exercise that a commercial operation commissions when it needs to establish provenance for a body of work that will be authenticated, valued, and offered at auction.
+
+The originals in the Pfaff photographs are the authentic output of the artist's hand working in her trompe l'oeil practice — the hand-applied media that approximates the visual appearance of stencilled spray paint, with the organic irregularities and painterly marks that industrial stencil production cannot replicate. What the Pfaff photographs document is the fine art output of a trompe l'oeil painter working within the Banksy graphic vocabulary. The studio that produced the documentation is not the artist's studio. It is the enterprise's provenance apparatus, applied to works the artist produced independently and delivered for documentation under the terms of her commercial arrangement.
+
+---
+
+The 2005 unique is the originals section's most precisely calibrated entry.
+
+One work. Oil paint. Not the trompe l'oeil technique that characterises the rest of the artist's documented output in the Banksy context, but oil paint applied to canvas in the mode of fine art painting — a bouquet of flowers, in a medium that requires no stencil reference and no visual grammar borrowed from the street.
+
+The 2005 unique is the artist's signature on the commercial ledger, placed in the year that precedes the LA print run that will trigger the schism. It is the one work in the originals section that is unambiguously the artist's hand in a mode the enterprise could not have produced without her. Everything else in the originals section is theoretically reproducible by the enterprise's production apparatus given sufficient skill and instruction. The oil-painted bouquet is not. It requires the painter, in the room, in oil, in the mode that is hers alone.
+
+Its placement in 2005 — the year of Barely Legal, the year before the LA print run violation that initiates the artist's withdrawal — is not arbitrary. The signature is in the right place.
+
+---
+
+The originals section omits what it cannot authenticate.
+
+The 2009 Bristol Museum show presents the clearest case. The site hedges explicitly — "Selected Originals on Exhibit" — flagging a partial record that appears nowhere else in the site's exhibition coverage. The hedge is the tell. The site knows which Bristol works are in the originals column and which are not, and it cannot present the Bristol coverage as a complete originals record without the hedge because the show contained works that do not qualify under the authentication terms that govern the column.
+
+Devolved Parliament is absent from the 2009 Bristol section. The Bristol show contained a canvas of that composition. But the canvas shown at Bristol originated as a super-sized giclee print on canvas, struck from a smaller painting and comprehensively overpainted by the art department as a room-filling exhibition prop. It met the display requirements of a major museum show. It did not meet the authentication requirements of the originals column. When a comprehensively reworked version appeared as Devolved Parliament at Sotheby's ten years later for nearly £10 million, the gap between the 2009 prop and the 2019 auction lot was already in the public record, available to anyone who had noticed that the Bristol hedge was there.
+
+---
+
+The originals section's double function is its most precise structural feature.
+
+It documents the artist's certified output for authentication and provenance. That is the commercial function. But it also documents the boundary of what the enterprise is authorised to certify — which works are on the right side of the line and which are hedged, which studio photographs establish provenance and which are absent because the work they would document is not in the originals column.
+
+The boundary is drawn with the knowledge of someone who was present when the terms were set. The hedges are placed by someone who knows which works require hedging. The 2005 unique is placed by someone who understands its function as a signature.
+
+The chart tells you what was agreed. The gaps tell you what wasn't.
+
+---
+
+# Article 5 — The Schism
+## What the AP Counts Tell You About the Break, and Why the Numbers Are Still Talking
+
+Every negotiated settlement leaves a record. In conventional commercial disputes, that record is a contract — signed, witnessed, filed. In the Banksy enterprise's settlement, the record is an edition structure. The AP counts on the post-schism prints are the contract. The colorway allocations are the annexures. The works that carry no AP at all are the clauses that were never agreed.
+
+This is not a metaphor. The enterprise encoded its ownership structure into its production arithmetic from the beginning — the twenty-two AP baseline that resolves into one artist copy, ten VIP allocation units, eleven POW retained inventory — and it continued encoding that structure through the schism and its aftermath. The edition numbers on the prints produced after 2005 are the forensic record of a renegotiation. You can read the terms of the settlement by counting the APs.
+
+---
+
+The schism's root is Hirst's 2009 decision. He abandons the multi-artist diversification plan — the arrangement under which the enterprise would have expanded into a stable of artists, with Banksy as the flagship but not the monopoly. He goes all-in on himself and Banksy instead, breaking the artist's walk-away deal and triggering the sequence of events the corporate record documents. The LA print run violation follows: POW pushes commercial prints into the public domain without the artist's sign-off on the quality terms embedded in her deal. The final-say clause is breached. The artist withdraws.
+
+But the schism does not arrive fully formed in 2009. It begins earlier, in the edition structures. The Barely Legal prints of 2005 — all six carrying a uniform AP count of six — are the first legible marker of a changed relationship between the artist and the enterprise's commercial apparatus. Six is not a multiple of twenty-two. Six is the AP structure of a print where the standard allocation has been reduced to its minimum viable form: one for the artist, one for the AoR, one for POW, and three for the VIP tier at half the standard rate. The uniformity of AP=6 across all six LA prints is the edition-level signal that the artist is already operating at arm's length from the standard commercial allocation before the LA print run violation makes the breach explicit.
+
+---
+
+Warren is fired in 2006. Warren is the artist's front person at POW — the operational intermediary between the artist's production and the commercial apparatus — and the Santa's Ghetto 2006 debacle is the documented occasion. Eine is fired in the same period, following the eBay backdoor print scandal. Eine sold unauthorised prints through a private channel, violating the distribution protocols that made the authentication architecture function. Two personnel actions, one window. The enterprise's disciplinary mechanism activating against the people closest to the artist's direct operational involvement.
+
+The aftermath is Lazarides' buyout in October 2008 — the financial mechanism of the broader separation — and Durban's resignation from LazInc in March 2009, the administrative confirmation that closes the account. The schism's personnel record runs from Warren's firing in 2006 to Durban's LazInc departure in March 2009. Three years. Three acts. The edition structures record each of them.
+
+---
+
+The post-schism signed prints are where the renegotiation becomes legible most directly.
+
+Control Your Weapon and NOLA Girl — the signed colorway editions produced in the post-schism period — carry Hirst's signature as AoR. Not the artist's. The AoR's. The schism renegotiation establishes that going forward, on the prints where the artist is not certifying her own involvement, the AoR signs. The artist made him sign on specific prints so that his signature would hang himself. Not figuratively. A signature by the AoR on a Banksy print is a public record of the AoR's role in the work's production and certification. The prints that carry Hirst's signature are the prints where the enterprise is operating without the artist's hand — and his signature is the proof, embedded in the object itself.
+
+---
+
+The NAPALM/SERPENTINE box set resolves the schism's most precise structural statement.
+
+Fifty prints in the edition. Twenty-nine artist's proofs. Twenty-nine does not divide by twenty-two. It resolves by subtraction: the standard allocation minus the AoR's expected share, if the AoR is excluded from the AP tier as a condition of the artist's participation in a production associated with his institutional commemoration. Twenty-nine only makes sense with Hirst outside the fifty.
+
+The Wreck of the Unbelievable edition-of-two with five APs is the obverse. An edition of two with five APs is structurally anomalous under normal commercial logic — you do not produce more artist's proofs than there are works in the edition. But if the five APs encode the artist's participation in a project whose edition is presented as Hirst's — one artist's copy per edition work, plus three additional APs encoding the artist's share of the Hirst commercial vehicle's proceeds — the five resolves as a contractual statement rather than a production anomaly. The edition-of-two is Hirst's. The five APs are the artist's share, encoded into the object because the object is where the enterprise put its contracts.
+
+---
+
+King Robbo in 2011 is the market's verdict on the enterprise without its artist.
+
+The feud becomes in 2011 a commercial test of whether the enterprise can sustain the Banksy brand's cultural authority without the hand that built it. The answer is no. King Robbo is a commercial and critical failure. The enterprise discovers, with full market data, that the artist is necessary — that the brand's value is inseparable from the quality of the production, and the quality of the production is inseparable from the person who produces it.
+
+The re-engagement comes in 2012. Evil Under the Sun for the Fiorucci Foundation. The conditions are a new capitalisation round — Round 2, funded by a new syndicate at terms that reflect the artist's demonstrated necessity and the enterprise's demonstrated vulnerability. The round funds Dismaland in 2015, the Walled Off Hotel in 2017, and Hirst's Wreck of the Unbelievable. The AP structures on the post-re-engagement prints are different from the pre-schism baseline. The renegotiation is in the numbers, as the original deal was in the numbers, as every subsequent amendment has been in the numbers.
+
+---
+
+The schism is not a falling-out. It is a contractual breach with a renegotiated settlement whose terms are encoded in the edition structures of every print produced during and after it.
+
+The front-end marker is the Barely Legal AP=6 uniformity in 2005. The breach is the LA print run violation and the Warren/Eine firings of 2006. The financial mechanism is the Lazarides buyout in October 2008. The administrative confirmation is Durban's LazInc departure in March 2009. The market verdict is King Robbo in 2011. The settlement is Round 2 in 2012.
+
+The edition arithmetic records each of these events without narrating them. Twenty-two becomes six. Six becomes an absence. The absence becomes Hirst's signature. Hirst's signature becomes twenty-nine. Twenty-nine becomes the re-engagement. The re-engagement becomes Dismaland, and the Walled Off Hotel, and the Wreck of the Unbelievable with its impossible five APs encoding the artist's share in the AoR's commemorative edition.
+
+The numbers were not hiding. They were in the public record from the beginning, waiting for someone to read them in sequence.
+
+---
+
+# Article 6 — Two Studios, Two Functions
+## The Photography Credit Sequence, the Blur Album Cover, and What the Banksy Publishing Record Hides in Plain Sight
+
+Every corporate origin story has a moment when the founding arrangement stops being what it was and becomes something else. For the Banksy enterprise, that moment is legible in a photography credit — or rather, in the precise sequence of when one photographer's name appears and another's doesn't.
+
+The Banksy publishing record runs in four stages. First: Banging Your Head Against a Brick Wall, the zine-format debut that established the visual grammar of the brand — street interventions, wall pieces, the gonzo verité of a lone operator working at night in cities that didn't ask for him. Steve Lazarides is credited. James Pfaff is not. Second: Existencilism, the first hardback, the move from zine culture into legitimate art publishing, where Lazarides appears among the additional photographers and Pfaff again does not. Third: Cut It Out, where Pfaff's name appears for the first time alongside Lazarides. Fourth: Wall and Piece, the consolidated volume that became the canonical Banksy monograph, where both men carry the same "additional photographer" designation, side by side, as though they had always occupied equivalent positions.
+
+They had not. The sequence of their credits is one of the cleaner pieces of evidence for what the Banksy enterprise actually was, and what it was in the process of becoming.
+
+---
+
+Lazarides' foundational role is locked by a single object that has nothing to do with Banksy directly.
+
+The cover photograph for Blur's Think Tank, released in 2003, is his only trademarked image. A photographer who trademarks one photograph trademarks the one that matters most — the one that established his market position, the one attached to a cultural object of sufficient value to be worth protecting. Think Tank was Blur's most critically acclaimed late-period record. Lazarides' cover photograph was the image that accompanied that moment into the world. The trademark is his declaration of what he was: a photographer of cultural consequence, present at significant moments, with the access and the eye to document them.
+
+He had that access because of who he was in the Bristol rave scene of the late 1990s, and who he was to Jefferson Hack. Hack co-founded Dazed and Confused in 1991 and by 1998 had built it into the editorial infrastructure through which the British art world's emerging generation moved its images and ideas. Lazarides contributed to Dazed from 1998 to 2002, and freelanced for Hack's wider editorial circle — Steve Beale at Sleaze Nation, the network of publications that constituted the cultural press of the period. He sold street art photography to Thrasher, Juxtapoz, The Face. Three publications, three countries, three distinct market segments. He paid his own bills through the work itself. He was a working-class Bristol rave-scene photographer who built his position through what his camera produced.
+
+That is why he was picked. Not despite being an outsider, but because of it. The enterprise needed a public face whose street credibility was the real thing, because the thing they were building required real street credibility to be believed. Hirst and Hack, building their joint venture, understood that a face like theirs would not do the job that a face like Lazarides' could. He was the photographer who could stand in front of street art and be believed as the photographer who documented a solitary anonymous artist. That belief was the foundation the brand required.
+
+---
+
+Pfaff is the other photographer, and his function is the opposite of Lazarides'.
+
+Where Lazarides produces the legend — the street documentation that builds the public myth, the images that travel from Bristol to Thrasher to Juxtapoz and seed the brand into the global networks the enterprise needed to reach — Pfaff produces the asset. His studio sessions are controlled, inventory-focused, repeatable. Controlled backgrounds. Controlled lighting. Conditions that eliminate the ambient irregularities of the street or the gallery install and replace them with the provenance documentation that the commercial market requires before it will value a work at the prices the enterprise needs it to reach.
+
+Without the Lazarides photograph, there is no legend. Without the Pfaff photograph, there is no provenance. Without the legend, the asset is worthless. Without the provenance, the asset cannot be sold. The enterprise required both functions from the beginning, which is why both photographers were working from the beginning. The credit sequence records when it became convenient for the second function to be publicly visible — which is not the same as when it began.
+
+Pfaff's credits appear in Cut It Out and Wall and Piece. The canvas editions he documented are dated 2000 through 2005. A photographer credited from the third publication onward is documenting works that predate his public credit by up to four years. The documentation of those earlier works exists — it has to exist, because the authentication chain for the canvas editions requires it. The documentation predates the credit. The credit sequence is the public appearance of a function that was always there, made visible at the moment the commercial apparatus required the documentation to be traceable. This is the same logic as the AP backdating argument in Article 2. The provenance infrastructure was in place before it appeared in print.
+
+---
+
+The Existencilism tell is the most elegant piece of evidence in the credit sequence.
+
+Existencilism is the first Banksy publication to appear in hardback — the move into legitimate art publishing, the step that takes the brand from zine culture into the institutional frame that serious collectors and gallerists required. Lazarides is credited as additional photographer. Pfaff is not. But Existencilism contains something that Banging Your Head Against a Brick Wall does not: Bernie Reid's stencil art, reproduced alongside the street work in a way that presents Reid's practice as continuous with the Banksy vocabulary rather than as a separate artist's output.
+
+Reid is the lead curator of Glasgow Peace Is Tough, 2001. He is the Scottish artist credited on the Untitled 06 edition. He is one of three co-equal contributors to the enterprise's founding creative layer — Lazarides as photographer, McKenzie as the trompe l'oeil hand, Reid as the stencil practice — before the corporate pivot consolidated the brand under a singular artist identity. His stencil art appears in Existencilism because at the point of Existencilism's production the enterprise is still operating on the three-contributor model. The singular artist identity has not yet been fully formalised. The publication records the pre-canonical collaborative structure in the visual material it reproduces, without naming it as such.
+
+The May 2002 contractual partition — the event that narrows the artist designation to McKenzie in consultation with Hirst as AoR — falls after Existencilism and before the next publication. The credit sequence and the publication content together record the transition from the three-contributor founding model to the formalised singular artist structure. The publishing record is the corporate timeline made visible as a bibliography.
+
+---
+
+The Lazarides arc closes at Julien's.
+
+In late 2024, Lazarides consigned portions of his remaining Banksy collection through Julien's Auctions. Rivers Threadneedle, the most recent vehicle in the Lazarides network, enters liquidation in February 2025. LazInc itself had gone into liquidation through the same process. The arc from Think Tank cover photographer to gallery director to Julien's consignor to liquidation is the arc of someone who was given a seat at a table built by others, operated at the level of that seat until the table was cleared, and ended with the scraps of what the table once held.
+
+The two publications he produced post-separation — Outsiders in 2009 and Banksy Captured in 2019 — fit the NDA timeline with the precision of a ten-year lock. Outsiders appears at the ten-year mark from when his involvement began in earnest. Banksy Captured appears at the twenty-year mark. The clearances required for Banksy Captured — the shots that made it through the publication process, and the image that closes the book, approved by the relevant parties — are the approval process of a separated partner working within the terms of what his separation agreement permits him to publish.
+
+He did not own the legend he helped build. He photographed it. The trademark on the Think Tank cover is the one thing in the visual record that he can point to and say: this is mine. The rest of it — the Banksy street documentation, the archive he built from 1999 to 2008, the gallery relationships and the book credits and the cultural position — belonged to the enterprise. He was the outside photographer. The enterprise was the inside operation. The credit sequence always knew the difference, even when the public record couldn't see it clearly enough to read it.
+
+---
+
+Two functions. Two photographers. One public record.
+
+Lazarides photographs the street work and builds the legend. Hack determines where that documentation is published and in what context — the publicity ran through Dazed, not through Laz. The images go through Lazarides' camera onto Hack's pages. Lazarides is the lens. Hack is the editorial infrastructure that turns the lens output into the brand's cultural position.
+
+Pfaff photographs the studio work and builds the provenance. The asset has a price because the legend built the demand. The legend has a distribution because Hack built the channel. The provenance has a chain because Pfaff built the documentation. Three functions, three people, one enterprise.
+
+The singular anonymous artist is the output of that enterprise. The credit sequence is the enterprise's self-description, written in the minimum visibility required to function commercially, available to anyone willing to read it in the right order.
+
+---
+
+*The evidentiary record underlying this series is published in full at github.com/bobilon/banksy-codex*
